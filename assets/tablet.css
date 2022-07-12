@@ -1,0 +1,8 @@
+body {
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+h2 {
+    font-size: 2.5rem;
+}
